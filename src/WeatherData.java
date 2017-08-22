@@ -34,6 +34,7 @@ public class WeatherData implements Subject {
 	}
 
 	public float getHumidity() {
+		//testing github
 		return this.humidity;
 	}
 
